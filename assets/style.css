@@ -1,3 +1,10 @@
 body {
-    background-color: cadetblue;
+    background-color: lightslategrey;
+}
+
+.main {
+    width:800px;
+    margin:0;
+    auto;
+    
 }

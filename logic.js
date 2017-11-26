@@ -1,4 +1,6 @@
-var triviaQuestions = require('questions');
+
+ var triviaQuestions = require('questions.js');
+console.log('where am i', triviaQuestions);
 
 //Need to create a timer that counts down from 30 seconds and testing
 var number = 21;
